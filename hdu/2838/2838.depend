@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494559964 source:c:\users\forei\desktop\coderoom\2017\hdu\2838\main.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+

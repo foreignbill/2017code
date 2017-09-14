@@ -1,0 +1,12 @@
+	f[cnt].a[1]=9;f[cnt].a[2]=41;f[cnt].a[3]=42;
+	f[cnt].a[4]=38;f[cnt].a[5]=39;f[cnt].a[6]=37;
+	f[cnt].a[7]=64;f[cnt].a[8]=55;f[cnt].a[9]=57;
+	f[cnt].a[10]=9;f[cnt].a[11]=41;f[cnt].a[12]=42;
+	f[cnt].a[13]=38;f[cnt].a[14]=39;f[cnt].a[15]=37;
+	f[cnt].a[16]=64;f[cnt].a[17]=55;f[cnt].a[18]=57;
+	r[cnt].a[1]=;r[cnt].a[2]=;r[cnt].a[3]=;
+	r[cnt].a[4]=;r[cnt].a[5]=;r[cnt].a[6]=;
+	r[cnt].a[7]=;r[cnt].a[8]=;r[cnt].a[9]=;
+	r[cnt].a[10]=;r[cnt].a[11]=;r[cnt].a[12]=;
+	r[cnt].a[13]=;r[cnt].a[14]=;r[cnt].a[15]=;
+	r[cnt].a[16]=;r[cnt].a[17]=;r[cnt].a[18]=;
